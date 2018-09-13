@@ -1,0 +1,18 @@
+.list {
+  overflow-y: scroll;
+}
+
+.el-collapse-item {
+
+}
+
+.el-collapse-item .header {
+  font-size: 1rem;
+}
+
+.el-collapse-item button {
+  font-size: 1rem;
+  display: bolock;
+  width: 100%;
+  text-align: left;
+}
